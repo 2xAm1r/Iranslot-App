@@ -6,7 +6,7 @@
 ## ⚆_⚆ About This [Iranslot](https://iranslot.com)
 ![image](https://github.com/user-attachments/assets/33c0a0e1-cf85-4503-b54d-f7cb70f8a452)
 
-<b>[Iranslot](https://iranslot.com) is a complete set of services in providing the best IT services in Iran and the most equipped specialized clinics for repairs, training and parts supply<b><br>
+<b>[Iranslot](https://www.iranslot.com) is a complete set of services in providing the best IT services in Iran and the most equipped specialized clinics for repairs, training and parts supply<b><br>
 
 
 
