@@ -3,10 +3,10 @@
 <b>1. This is a Python project under Windows for faster testing of laptops in the company to help the expert advance in the repair process.<b><br>
 <b>2. More features may be added in the future and the source code of this project is private<b>
 
-## ⚆_⚆ About This [Iranslot](iranslot.com)
+## ⚆_⚆ About This [Iranslot](https://iranslot.com)
 ![image](https://github.com/user-attachments/assets/33c0a0e1-cf85-4503-b54d-f7cb70f8a452)
 
-<b>[IranSlot](iranslot.com) is a complete set of services in providing the best IT services in Iran and the most equipped specialized clinics for repairs, training and parts supply<b><br>
+<b>[Iranslot](https://iranslot.com) is a complete set of services in providing the best IT services in Iran and the most equipped specialized clinics for repairs, training and parts supply<b><br>
 
 
 
